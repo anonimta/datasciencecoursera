@@ -1,2 +1,2 @@
 # datasciencecoursera
-for assignmenr
+for assignment
